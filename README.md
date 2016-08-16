@@ -6,8 +6,8 @@
     * [featureHasher](./lib/featureHasher): A streaming feature hasher dealing with nested dict based on [sklearn FeatureHasher](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
     * [featureSelector](./lib/featureSelector)
         * [poissonInclusion.py](./lib/featureSelector/poissonInclusion.py)
-        * [significantFeatureSelector.py](./lib/featureSelector/significantFeatureSelector.py)
-    * [fileDB](./lib/fileDB)
+        * [significantFeatureSelector.py](./lib/featureSelector/significantFeatureSelector.py): select feature using featureDistribution
+    * [fileDB](./lib/fileDB): read data
 
 ##Experiment
 <img src="./Competitors.png" width="500">
