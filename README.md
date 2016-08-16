@@ -26,14 +26,15 @@
 
 ##Plot Data
 * [plot](./plot)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e2_e3.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
-   * [plot](./plot/e1.py)
+   * [e1](./plot/e1.py): Stability of Index Set
+   * [e2_e3](./plot/e2_e3.py): Select size k vs AUC 
+   * [e4](./plot/e4.py): Select Size k vs loglikelihood
+   * [e5](./plot/e5.py): Online Memory Usage
+   * [e6](./plot/e6.py): Offline Memory Usage 
+   * [e7](./plot/e7.py): Online Run Time
+   * [e8_e9](./plot/e8_e9.py): Offline Run Time
+   * [e10](./plot/e10.py): AUC Performance 
+   * [e11](./plot/e11.py): Loglikelihood Performance 
+   * [e12](./plot/e12.py)
+   * [e13](./plot/e13.py)
+   * [e14](./plot/e14.py)
