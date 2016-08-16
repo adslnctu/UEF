@@ -1,9 +1,9 @@
 #Overview
 ##Library
 * [lib](./lib)  
-    * [classifier](./lib/classifier)
-    * [featureDistribution](./lib/featureDistribution)
-    * [featureHasher](./lib/featureHasher)
+    * [classifier](./lib/classifier): CTR prediction models
+    * [featureDistribution](./lib/featureDistribution): Count conditional mean for each hashed feature 
+    * [featureHasher](./lib/featureHasher): A streaming feature hasher dealing with nested dict based on [sklearn FeatureHasher](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
     * [featureSelector](./lib/featureSelector)
     * [fileDB](./lib/fileDB)
 
@@ -21,5 +21,3 @@
 
 ##Plot Data
 * [plot](./plot)
-
-[//]: # (This may be the most platform independent comment)
