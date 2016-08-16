@@ -1,4 +1,6 @@
 #Overview
+##
+* data: ftp://140.113.213.5//02_LAB/2_畢業資料/碩士/2016/王俊儫/data
 ##Library
 * [lib](./lib)  
     * [classifier](./lib/classifier): CTR prediction models
@@ -38,5 +40,3 @@
    * [e12](./plot/e12.py): Offline Memory Usage
    * [e13](./plot/e13.py): Select size k vs Online Run Time
    * [e14](./plot/e14.py): Offline Run Time
-##
-* [data](ftp://140.113.213.5//02_LAB/2_畢業資料/碩士/2016/王俊儫)
