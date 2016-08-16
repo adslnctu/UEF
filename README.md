@@ -1,4 +1,6 @@
 #Overview
+Libaray
+* [lib](./lib)
 Experiment  
 * [lr](./lr)
     * [offlineMemory](./lr/offlineMemory)
@@ -28,6 +30,7 @@ Experiment
     * [onlineMemory](./ssem/onlineMemory)
     * [onlineTime](./ssem/onlineTime)
     * [standard](./ssem/standard)
-* [lib](./lib)
+plot
+* [plot](./plot)
  
 
