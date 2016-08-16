@@ -1,8 +1,8 @@
 #Overview
 ##
 * data: ftp://140.113.213.5/02_LAB/2_畢業資料/碩士/2016/王俊儫/data
-* dependent libraries:
-   * pymongo, scikit-learn, 
+* dependent libraries
+   * pymongo, scikit-learn
 
 ##Library
 * [lib](./lib)  
