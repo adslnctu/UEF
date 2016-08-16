@@ -1,5 +1,5 @@
 #Overview
-##Libaray  
+##Library
 * [lib](./lib)  
     * [classifier](./lib/classifier)
     * [featureDistribution](./lib/featureDistribution)
@@ -9,8 +9,7 @@
 
 ##Experiment  
 * [lr](./lr)
-    * [offlineMemory](./lr/offlineMemory)
-    * [offlineTime](./lr/offlineTime)
+    * [offlineMemory](./lr/offlineMemory), [offlineTime](./lr/offlineTime)
     * [onlineMemory](./lr/onlineMemory)
     * [onlineTime](./lr/onlineTime)
     * [standard](./lr/standard)
@@ -37,5 +36,5 @@
     * [onlineTime](./ssem/onlineTime)
     * [standard](./ssem/standard)
 
-##plot
+##Plot Data
 * [plot](./plot)
