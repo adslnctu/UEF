@@ -1,6 +1,6 @@
 #Overview
 ##
-* data: ftp://140.113.213.5//02_LAB/2_畢業資料/碩士/2016/王俊儫/data
+* data: ftp://140.113.213.5/02_LAB/2_畢業資料/碩士/2016/王俊儫/data
 
 ##Library
 * [lib](./lib)  
