@@ -12,11 +12,22 @@ Experiment
     * [onlineMemory](./lr_fh/onlineMemory)
     * [onlineTime](./lr_fh/onlineTime)
     * [standard](./lr_fh/standard)
-|---lr_fh: Logistic Regression + Feature Hashing  
-|---ftrlProximal: FTRL-Proximal  
-|---sem: UEF_SEM  
-|---ssem: UEF_SSEM  
-|---lib: library  
-##lib
+* [ftrlProximal](./ftrlProximal)
+    * [onlineMemory](./ftrlProximal/onlineMemory)
+    * [onlineTime](./ftrlProximal/onlineTime)
+    * [standard](./ftrlProximal/standard)
+* [sem](./sem)
+    * [offlineMemory](./sem/offlineMemory)
+    * [offlineTime](./sem/offlineTime)
+    * [onlineMemory](./sem/onlineMemory)
+    * [onlineTime](./sem/onlineTime)
+    * [standard](./sem/standard)
+* [sem](./ssem)
+    * [offlineMemory](./ssem/offlineMemory)
+    * [offlineTime](./ssem/offlineTime)
+    * [onlineMemory](./ssem/onlineMemory)
+    * [onlineTime](./ssem/onlineTime)
+    * [standard](./ssem/standard)
+* [lib](./lib)
  
 
