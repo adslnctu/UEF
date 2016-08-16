@@ -10,7 +10,7 @@
     * [fileDB](./lib/fileDB)
 
 ##Experiment
-<img src="./competitors.png" width="48">
+<img src="./competitors.png" width="300">
 * [lr](./lr)
     * [offlineMemory](./lr/offlineMemory), [offlineTime](./lr/offlineTime), [onlineMemory](./lr/onlineMemory), [onlineTime](./lr/onlineTime), [standard](./lr/standard)
 * [lr_fh](./lr_fh)
