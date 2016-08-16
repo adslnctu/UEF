@@ -1,6 +1,11 @@
 #Overview
 ##Libaray  
 * [lib](./lib)  
+    * [classifier](./lib/classifier)
+    * [featureDistribution](./lib/featureDistribution)
+    * [featureHasher](./lib/featureHasher)
+    * [featureSelector](./lib/featureSelector)
+    * [fileDB](./lib/fileDB)
 
 ##Experiment  
 * [lr](./lr)
