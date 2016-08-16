@@ -13,7 +13,7 @@
 * [lr_fh](./lr_fh)
     * [offlineMemory](./lr_fh/offlineMemory), [offlineTime](./lr_fh/offlineTime), [onlineMemory](./lr_fh/onlineMemory), [onlineTime](./lr_fh/onlineTime), [standard](./lr_fh/standard)
 * [ftrlProximal](./ftrlProximal)
-    * [onlineMemory](./ftrlProximal/onlineMemory), [onlineTime](./ftrlProximal/onlineTime), * [standard](./ftrlProximal/standard)
+    * [onlineMemory](./ftrlProximal/onlineMemory), [onlineTime](./ftrlProximal/onlineTime), [standard](./ftrlProximal/standard)
 * [sem](./sem)
     * [offlineMemory](./sem/offlineMemory), [offlineTime](./sem/offlineTime), [onlineMemory](./sem/onlineMemory), [onlineTime](./sem/onlineTime), [standard](./sem/standard)
 * [sem](./ssem)
@@ -21,3 +21,4 @@
 
 ##Plot Data
 * [plot](./plot)
+[comment]: <> (This is a comment, it will not be included)
