@@ -21,7 +21,8 @@
     * [offlineMemory](./sem/offlineMemory), [offlineTime](./sem/offlineTime), [onlineMemory](./sem/onlineMemory), [onlineTime](./sem/onlineTime), [standard](./sem/standard)
 * [sem](./ssem): UEF_SSEM
     * [offlineMemory](./ssem/offlineMemory), [offlineTime](./ssem/offlineTime), [onlineMemory](./ssem/onlineMemory), [onlineTime](./ssem/onlineTime), [standard](./ssem/standard)
-\# adssdadas
+
+\# standord: evaluate AUC and Loglikelihood for the model
 
 ##Plot Data
 * [plot](./plot)
