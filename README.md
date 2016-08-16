@@ -11,15 +11,15 @@
 
 ##Experiment
 <img src="./Competitors.png" width="500">
-* [lr](./lr)
+* [lr](./lr): LR
     * [offlineMemory](./lr/offlineMemory), [offlineTime](./lr/offlineTime), [onlineMemory](./lr/onlineMemory), [onlineTime](./lr/onlineTime), [standard](./lr/standard)
-* [lr_fh](./lr_fh)
+* [lr_fh](./lr_fh): LR_FH
     * [offlineMemory](./lr_fh/offlineMemory), [offlineTime](./lr_fh/offlineTime), [onlineMemory](./lr_fh/onlineMemory), [onlineTime](./lr_fh/onlineTime), [standard](./lr_fh/standard)
-* [ftrlProximal](./ftrlProximal)
+* [ftrlProximal](./ftrlProximal): FTRL-Proximal
     * [onlineMemory](./ftrlProximal/onlineMemory), [onlineTime](./ftrlProximal/onlineTime), [standard](./ftrlProximal/standard)
-* [sem](./sem)
+* [sem](./sem): UEF_SEM
     * [offlineMemory](./sem/offlineMemory), [offlineTime](./sem/offlineTime), [onlineMemory](./sem/onlineMemory), [onlineTime](./sem/onlineTime), [standard](./sem/standard)
-* [sem](./ssem)
+* [sem](./ssem): UEF_SSEM
     * [offlineMemory](./ssem/offlineMemory), [offlineTime](./ssem/offlineTime), [onlineMemory](./ssem/onlineMemory), [onlineTime](./ssem/onlineTime), [standard](./ssem/standard)
 
 ##Plot Data
