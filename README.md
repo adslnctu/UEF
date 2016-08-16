@@ -1,11 +1,12 @@
 #Overview
 Experiment  
-|---lr: Logistic Regression  
-|------offlineMemory  
-|------offlineTime  
-|------onlineMemory  
-|------onlineTime  
-|------standard  
+* [lr](./lr)
+* 	[offlineMemory](./lr/offlineMemory)
+* 	[offlineTime](./lr/offlineTime)
+* 	[onlineMemory](./lr/onlineMemory)
+* 	[onlineTime](./lr/onlineTime)
+
+
 |---lr_fh: Logistic Regression + Feature Hashing  
 |---ftrlProximal: FTRL-Proximal  
 |---sem: UEF_SEM  
@@ -13,4 +14,4 @@ Experiment
 |---lib: library  
 ##lib
  
-* [lr](./lr)
+
