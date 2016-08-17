@@ -1,6 +1,8 @@
 #UEF
 ##
-* data: ftp://140.113.213.5/02_LAB/2_畢業資料/碩士/2016/王俊儫/data
+* data
+    * http://data.computational-advertising.org/
+    * ftp://140.113.213.5/02_LAB/2_畢業資料/碩士/2016/王俊儫/data  這個是我從上面的連結抓下來放的，原本的下載很慢
 * dependent libraries
    * pymongo, scikit-learn
 
