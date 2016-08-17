@@ -24,7 +24,7 @@
     * [onlineMemory](./ftrlProximal/onlineMemory), [onlineTime](./ftrlProximal/onlineTime), [standard](./ftrlProximal/standard)
 * [sem](./sem): UEF_SEM
     * [offlineMemory](./sem/offlineMemory), [offlineTime](./sem/offlineTime), [onlineMemory](./sem/onlineMemory), [onlineTime](./sem/onlineTime), [standard](./sem/standard)
-* [sem](./ssem): UEF_SSEM
+* [ssem](./ssem): UEF_SSEM
     * [offlineMemory](./ssem/offlineMemory), [offlineTime](./ssem/offlineTime), [onlineMemory](./ssem/onlineMemory), [onlineTime](./ssem/onlineTime), [standard](./ssem/standard)
 
 \# standord: evaluate AUC and Loglikelihood for the model
