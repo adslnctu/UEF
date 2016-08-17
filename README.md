@@ -7,7 +7,7 @@
 ##Library
 * [lib](./lib)  
     * [classifier](./lib/classifier): CTR prediction models
-    * [featureDistribution](./lib/featureDistribution): Count conditional mean for each hashed feature 
+    * [featureDistribution](./lib/featureDistribution): Calculate conditional mean for each hashed feature 
     * [featureHasher](./lib/featureHasher): A streaming feature hasher dealing with nested dict based on [sklearn FeatureHasher](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
     * [featureSelector](./lib/featureSelector)
         * [poissonInclusion.py](./lib/featureSelector/poissonInclusion.py)
