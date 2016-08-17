@@ -34,12 +34,12 @@
    * [e1](./plot/e1.py): Stability of Index Set
    * [e2_e3](./plot/e2_e3.py): Select size k vs AUC, loglikelihood
    * [e4](./plot/e4.py): Online Memory Usage
-   * [e5](./plot/e5.py): Select size k vs Offline Memory Usage
+   * [e5](./plot/e5.py): Index Set Size k vs Offline Memory Usage
    * [e6](./plot/e6.py): Online Run Time
-   * [e7](./plot/e7.py): Select size k vs Offline Run Time
+   * [e7](./plot/e7.py): Index Set Size k vs Offline Run Time
    * [e8_e9](./plot/e8_e9.py): AUC, Loglikelihood
-   * [e10](./plot/e10.py): distingusiablity of each feature
-   * [e11](./plot/e11.py): Select size k vs Online Memory Usage
+   * [e10](./plot/e10.py): Distingusiablity of Each Feature
+   * [e11](./plot/e11.py): Index Set Size k vs Online Memory Usage
    * [e12](./plot/e12.py): Offline Memory Usage
-   * [e13](./plot/e13.py): Select size k vs Online Run Time
+   * [e13](./plot/e13.py): Index Set Size k vs Online Run Time
    * [e14](./plot/e14.py): Offline Run Time
